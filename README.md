@@ -1,2 +1,2 @@
 # application-releases
-🎉 Releases repo of Antic Browser Desktop Application
+🎉 Releases repo of Antik Browser Desktop Application
